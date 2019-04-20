@@ -1,0 +1,1 @@
+require.config({baseUrl:"",paths:{jquery:"lib/jquery/jquery-1.12.4.min",cookie:"lib/jquery_plugins/jquery.cookie",arttemplate:"lib/arttemplate/template",include:"js/include"}});
